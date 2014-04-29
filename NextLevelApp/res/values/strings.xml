@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Next Level Gym App</string>
+    <string name="LogIn">Log In</string>
+    <string name="UserRegister">New User Register</string>
+    <string name="UserName">User:</string>
+    <string name="PassWord">Password:</string>
+    <string name="welcome_msg">Welcome to Next Level Gym</string>
+    <string name="logon_msg">Log in Successful!</string>
+    <string name="BMI">BMI</string>
+    <string name="BMI_Index">BMI Index</string>
+    <string name="Workouts">Workouts</string>
+    <string name="Track_Workout">Track Workout</string>
+    <string name="Track_BMI">Track BMI</string>
+    <string name="Forgot_Password">Forgot Password?</string>
+    <string name="Register">Register</string>
+    <string name="app_name1">Next Level App</string>
+
+</resources>
